@@ -1,6 +1,6 @@
 {
   "name" : "kbide-tello-library",
-  "title": "DJI Tello library",
+  "title": "DJI Tello (BETA)",
   "keywords": "esp32, wifi, udp, drone",
   "description": "DJI Tello library for KB-IDE",
   "git": "",
