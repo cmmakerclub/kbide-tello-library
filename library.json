@@ -3,7 +3,7 @@
   "title": "DJI Tello (BETA)",
   "keywords": "esp32, wifi, udp, drone",
   "description": "DJI Tello library for KB-IDE",
-  "git": "",
+  "git": "https://github.com/cmmakerclub/kbide-tello-library",
   "author": "Maker Asia",
   "email": "makerasia@gmail.com",
   "url": "http://www.kbide.org",
