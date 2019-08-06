@@ -123,16 +123,16 @@ void TELLO::right(uint8_t cm) {
 }
 
 void TELLO::cw(uint8_t degree) {
-  String data = "cw " + String(cm);
+  String data = "cw " + String(degree);
   TelloCommand(data.c_str());
 }
 
 void TELLO::ccw(uint8_t degree) {
-  String data = "ccw " + String(cm);
+  String data = "ccw " + String(degree);
   TelloCommand(data.c_str());
 }
 
 void TELLO::flip(const char * direction){
-  String data = "flip " + String(cm);
+  String data = "flip " + String(direction);
   TelloCommand(data.c_str());
 }
