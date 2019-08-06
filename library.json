@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-tello-library",
+  "title": "DJI Tello library",
+  "keywords": "esp32, wifi, udp, drone",
+  "description": "DJI Tello library for KB-IDE",
+  "git": "",
+  "author": "Maker Asia",
+  "email": "makerasia@gmail.com",
+  "url": "http://www.kbide.org",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.jpg",
+  "homepage": "http://www.kbide.org"
+}
