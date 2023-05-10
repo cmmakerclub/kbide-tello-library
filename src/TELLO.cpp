@@ -108,7 +108,7 @@ void TELLO::forward(uint8_t cm) {
 }
 
 void TELLO::backward(uint8_t cm) {
-  String data = "backward " + String(cm);
+  String data = "back " + String(cm);
   TelloCommand(data.c_str());
 }
 
